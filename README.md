@@ -1,8 +1,9 @@
-Conway's Game Of Life
+***Conway's Game Of Life***
+
 Here are some test inputs!
 
-catapillar:
-10
+*catapillar:*
+>10
 10
 n
 10
@@ -17,9 +18,9 @@ n
 9
 9
 y
-Gun thingy:
-Near square
-4
+
+*Gun thingy:*
+>4
 0
 n
 4
@@ -30,7 +31,7 @@ n
 n
 5
 1
-Far square
+n
 2
 35
 n
@@ -42,7 +43,7 @@ n
 n
 3
 34
-Far thing
+n
 0
 24
 n
@@ -78,7 +79,7 @@ n
 n
 6
 24
-Near thing
+n
 2
 12
 n
